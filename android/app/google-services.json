@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031442147823",
+    "project_id": "quinrox",
+    "storage_bucket": "quinrox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031442147823:android:69de82b24150f51870ae1a",
+        "android_client_info": {
+          "package_name": "com.quinrox.quinrox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031442147823-0gpvj5mdqbqdodgpha750qjb7kneptqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_EgvsvO2560E9OhXurh1Q3i1mPw7pGZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031442147823-0gpvj5mdqbqdodgpha750qjb7kneptqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
